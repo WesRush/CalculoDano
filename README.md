@@ -1,4 +1,4 @@
-# Cálculo de Dabi
+# Cálculo de Dano
 
 Escreva um programa que permita inserir o nome e o poder de ataque de um personagem, depois o nome, a quantidade de pontos de vida, o poder de defesa de outro personagem e se ele possui um escudo, e então calcule a quantidade de dano causado baseado nas seguintes regras:
 
